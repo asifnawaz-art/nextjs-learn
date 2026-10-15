@@ -19,8 +19,8 @@ export default function AboutPage() {
         </h1>
 
         <p className="mx-auto mt-6 max-w-2xl text-lg leading-8 text-slate-600">
-          We're building a modern website using Next.js, React, TypeScript, and
-          Tailwind CSS.
+          We&apos;re building a modern website using Next.js, React, TypeScript,
+          and Tailwind CSS.
         </p>
 
         <div className="mt-10">
