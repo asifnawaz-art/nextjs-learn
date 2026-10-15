@@ -52,7 +52,7 @@ export default function Header() {
             N
           </span>
 
-          <span>Next.js</span>
+          <span>Next.js Website</span>
         </Link>
 
         {/* Desktop Navigation */}
